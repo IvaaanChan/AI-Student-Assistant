@@ -20,9 +20,9 @@ The application uses Retrieval-Augmented Generation (RAG):
 💬 **Chat History** – Preserve conversation history within the Streamlit session <br>
 ⏳ **Processing Feedback** – Display progress and status updates during document processing
 
-## Demo
+## Demo Video
 
-![Watch the video](https://raw.githubusercontent.com/IvaaanChan/AI-Student-Assistant/main/demo.mp4)
+https://github.com/user-attachments/assets/23bb4830-5f0c-4fc4-80d1-52b780a4b47f
 
 Example prompts:
 
@@ -55,11 +55,11 @@ The application is configured to use:
 AI-Student-Assistant/
 ├── Test_doc/               # Example PDF documents
 ├── .gitignore
-├── README.md
-├── requirements.txt        # Required packages with version
 ├── RAG_visual.png          # Workflow visualization
+├── README.md
 ├── demo.mp4                # Application demo video
-└── main.py                 # Main application entry point
+├── main.py                 # Main application entry point
+└── requirements.txt        # Required packages with version
 ```
 
 ## Getting Started
@@ -73,7 +73,7 @@ AI-Student-Assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/IvaaanChan/AI-Student-Assistant.git
+git clone https://github.com/IvaaanChan/AI-Student-Assistant
 cd AI-Student-Assistant
 ```
 
