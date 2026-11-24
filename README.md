@@ -22,7 +22,7 @@ The application uses Retrieval-Augmented Generation (RAG):
 
 ## Demo
 
-![Video](./demo.mp4 "Demo")
+![Watch the video](https://raw.githubusercontent.com/IvaaanChan/AI-Student-Assistant/main/demo.mp4)
 
 Example prompts:
 
